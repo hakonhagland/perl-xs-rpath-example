@@ -5,3 +5,5 @@ Module.o
 pm_to_blib
 MYMETA.json
 MYMETA.yml
+Makefile
+mylib/libmylib.so
