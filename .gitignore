@@ -7,3 +7,4 @@ MYMETA.json
 MYMETA.yml
 Makefile
 mylib/libmylib.so
+pure_c/main
